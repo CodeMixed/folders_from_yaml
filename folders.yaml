@@ -1,6 +1,7 @@
 root:
-  - folder1
-  - folder2
-  - folder3
-  - folder4
-  - folder5
+- subdir1:
+  - subdir2:
+    - subdir3:
+      - file1
+      - file2
+      - file3
